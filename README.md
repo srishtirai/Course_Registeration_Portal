@@ -106,8 +106,7 @@ The individual contributions are displayed here.
  ## Database Schema
 
 Create a new schema named course_registration_db in MySql and the tables are created automatically based on the JPA entity definitions.
-![WhatsApp Image 2023-12-11 at 21 00 03_ef5c6cbb](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-10/assets/144845169/b386665e-e736-491d-8e11-73066018f043)
-
+![Screenshot 2023-12-29 220325](https://github.com/srishtirai/OOD-Final/assets/44725079/65b67ff5-e835-4e71-bc5a-c4709e63eeba)
 
 ## Authors 
 
