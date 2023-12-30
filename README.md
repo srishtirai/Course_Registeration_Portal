@@ -1,4 +1,4 @@
-# Welcome to the course CSYE6200 - Object Oriented Design
+# Final Project for CSYE6200 - Object Oriented Design
 > Northeastern University, College of Engineering
 
 ## Professor: Daniel Peters
