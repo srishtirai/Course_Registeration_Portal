@@ -80,19 +80,19 @@ spring.jpa.hibernate.ddl-auto=update
 This project follows **Object-Oriented Design principles and Design Patters.**
 The individual contributions are displayed here.
 
-1. Encapsulation - We're creating POJO's [Plain Old Java Objects] -> Nilraj Mayekar
-2. Interfaces have been used while creating DAO classes for Hibernate -> Nilraj Mayekar
-3. Inheritance - Student and Teacher are inherited from User -> Rajeev Ramesh
-4. Polymorphism - we're overriding functions -> Rajeev Ramesh
-5. Comparators for sorting course details based on name -> Puja Kalivarapu 
-6. Streams to filter and search courses and students -> Puja Kalivarapu 
-7. ENUM's to declare user roles -> Manish Chikkavadaragudi Prasanna Kumar
-8. Singleton design pattern for creating SessionFactory for Hibernate -> 
-9. Factory design pattern to create Student and Person accounts -> Srishti C Rai
-10. Read CSV files to get Student and Person details using Generic class -> Srishti C Rai
-11. Used various data structures like Arrays, List, Set etc. -> Srishti C Rai
-12. Lambda expressions for sorting -> Abdul Azeem Syed
-13. Exception handling is done in multiple places -> Abdul Azeem Syed
+1. Encapsulation - We're creating POJO's [Plain Old Java Objects]
+2. Interfaces have been used while creating DAO classes for Hibernate
+3. Inheritance - Student and Teacher are inherited from User
+4. Polymorphism - we're overriding functions
+5. Comparators for sorting course details based on name
+6. Streams to filter and search courses and students
+7. ENUM's to declare user roles
+8. Singleton design pattern for creating SessionFactory for Hibernate
+9. Factory design pattern to create Student and Person accounts
+10. Read CSV files to get Student and Person details using Generic class
+11. Used various data structures like Arrays, List, Set etc.
+12. Lambda expressions for sorting
+13. Exception handling is done in multiple places
 	
  Entities are designed to represent real-world objects, and relationships are modelled to reflect the business logic.
  
