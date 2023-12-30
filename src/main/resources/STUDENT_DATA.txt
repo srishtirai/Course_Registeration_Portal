@@ -1,0 +1,6 @@
+stu_Rajeev,India123,STUDENT,Rajeev,Ramesh,rajeev.ramesh@email.com,STU001,Computer Science,2
+stu_Azeem,USA123,STUDENT,Azeem,Abdul,azeem.abdul@email.com,STU002,Electrical Engineering,3
+stu_Puja,London123,STUDENT,Puja,Kalivarapu,puja.kalivarapu@email.com,STU003,Physics,1
+stu_Neelraj,Paris123,STUDENT,Neelraj,Kumar,neelraj.kumar@email.com,STU004,Mathematics,4
+stu_Srishti,Brazil123,STUDENT,Srishti,Rai,srishti.rai@email.com,STU005,Biology,2
+stu_Manish,Ausie123,STUDENT,Manish,CP,eva.jones@email.com,STU005,Mathematics,2

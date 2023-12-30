@@ -1,0 +1,5 @@
+prof_Yusuf,Yusuf123,PROFESSOR,Yusuf,Ozbek,yusuf.ozbek@university.com,EMP001,Computer Science
+prof_Robin,pass456,PROFESSOR,Robin,Smith,robin.smith@university.com,EMP002,Physics
+prof_Daniel,secure789,PROFESSOR,Robert,Johnson,robert.johnson@email.com,EMP003,Chemistry
+prof_Peter,secret321,PROFESSOR,Peter,Daniels,peter.daniels@email.com,EMP004,Mathematics
+prof_Rohan,access456,PROFESSOR,Rohan,Devaki,rohan.devaki@email.com,EMP005,Biology
