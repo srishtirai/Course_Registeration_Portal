@@ -1,8 +1,3 @@
-# Final Project for CSYE6200 - Object Oriented Design
-> Northeastern University, College of Engineering
-
-## Professor: Daniel Peters
-
 ## Course Registration Portal
 This is a Spring Boot application that provides a platform for students and professors to manage course registrations. It facilitates user authentication, course selection, and filtering, and allows for various interactions between students and professors. It demonstrates Object-Oriented Design principles while interacting with a MySQL database using Hibernate.
 
@@ -107,13 +102,3 @@ The individual contributions are displayed here.
 
 Create a new schema named course_registration_db in MySql and the tables are created automatically based on the JPA entity definitions.
 ![Screenshot 2023-12-29 220325](https://github.com/srishtirai/OOD-Final/assets/44725079/65b67ff5-e835-4e71-bc5a-c4709e63eeba)
-
-## Authors 
-
-Author:
-- Srishti C Rai (rai.sr@northeastern.edu)
-- Manish Chikkavadaragudi Prasanna Kumar (chikkavadaragudipr.m@northeastern.edu)
-- Puja Kalivarapu (Kalivarapu.puja@northeastern.edu)
-- Abdul Azeem Syed (syed.abdu@northeastern.edu)
-- Rajeev Ramesh (ramesh.raj@northeastern.edu)
-- Nilraj Mayekar (mayekar.n@northeastern.edu)
